@@ -4,22 +4,21 @@ UNITE DE FORMATION ET DE RECHERCHE EN SCIENCES ET TECHNOLOGIES
 --------------------------------------------------------------------------------------------------------------------------------------
 RAPPORT DE PROJET JAVA
 ----------------
-Réalisé en Juillet 2022 par KERE Assime
-&
-YODA Nicolas
+Réalisé en Juillet 2022 par KERE Assime & YODA Nicolas
 -----------------------------------
 Enseignant : Dr Moustapha BIKIENGA
 Filière : INFORMATIQUE Niveau
-d’étude : Licence 2, Semestre 4 Année
-académique : 2020-2021
-1RAPPORT DE PROJET INFORMATIQUE – AUTEURS : KERE ASSIME & YODA NICOLAS
+d’étude : Licence 2, Semestre 4 
+Année académique : 2020-2021
+RAPPORT DE PROJET INFORMATIQUE – AUTEURS : KERE ASSIME & YODA NICOLAS
 Sommaire
-Introduction ..................................................................................... 2
-I. Description et Fonctionnalités du jeu............................................ 2
-II. Architecture ................................................................................ 3
-II.1. Principales classes .................................................................... 3
+Introduction.................................................................. 2
+I. Description et Fonctionnalités du jeu................................ ..... 2
+II. Architecture ............................................................. 3
+II.1. Principales classes ................     ............................... 3
 II.2. Diagramme de classes UML ............................................. 5
-Conclusion ....................................................................................... 5
+Conclusion  ................................................................ 5
+
 Introduction
 Ce document fait office de rapport pour notre premier projet en programmation
 orienté objet dont le but était de coder un jeu de plateforme PUISSANCE 4 en
@@ -30,8 +29,7 @@ autres de la méthode MERISE vue en cours de Système d’informations puis
 nous sommes passés au codage en JAVA.
 Dans notre présent rapport nous décrirons d’une part le jeu, d’autre part les
 différentes classes utilisés.
-I.
-Description et Fonctionnalités du jeu
+I. Description et Fonctionnalités du jeu
 Puissance 4 est un jeu dont le but consiste à d’aligner 4 pions. Ce jeu se joue
 avec deux joueurs dont chacun possède son pion et les place dans une grille de
 taille par défaut (6*7), l’utilisateur pourra aussi configurer la taille sous certaines
